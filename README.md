@@ -1,7 +1,7 @@
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone https://github.com/feroseali/react-test.git
+git clone https://github.com/classyserve/react-test.git
 ```
 
 
