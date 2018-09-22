@@ -1,4 +1,4 @@
-Clone the project repository by running the command below if you use SSH
+Clone the project repository by running the command below
 
 ```bash
 git clone https://github.com/classyserve/react-test.git
